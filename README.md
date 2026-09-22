@@ -27,7 +27,7 @@ Python、Pandas、NumPy、Matplotlib、Seaborn、Scikit-learn、PCA、K-Means、
 通过特征重要性分析得出：**商品价格、曝光流量、加购转化率、用户好评率**是决定商品成为爆款的四大核心因素。
 
 ## 七、运行方式
-```bash
+
 pip install -r requirements.txt
 python tmall-data-warehouse.py
 
